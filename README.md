@@ -11,7 +11,6 @@ Logster is a React app that has a Login, Register and Reset password features. T
   - [Technologies](#technologies)
   - [Packages & Libraries](#packages--libraries)
   - [Contributing](#contributing)
-  - [Support](#support)
   - [Final Words](#final-words)
 
 ## Functionalities
@@ -63,12 +62,6 @@ or
 
 
 
-## Support
-
-Reach out to me at one of the following places!
-
-- Website at <a href="https://izemspot.netlify.com" target="_blank">`izemspot.netlify.com`</a>
-- Gmail <a href="mailto:zmr.ilyas@gmail.com" target="_blank">`zmr.ilyas@gmail.com`</a>
 
 
 
